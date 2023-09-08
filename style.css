@@ -1,0 +1,86 @@
+* {
+    padding: 0%;
+    margin:0%;
+    color: white;
+}
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+
+}
+button {
+    color:#f08804;
+}
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 170px;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+.hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color:black;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.services {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.services h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.service {
+    margin: 0 20px;
+    padding: 20px;
+    background-color: #080505;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.service img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.service h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.service p {
+    font-size: 16px;
+}
+.service {
+    color: black;
+}
